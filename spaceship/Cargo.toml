@@ -8,3 +8,6 @@ opt-level = 3
 debug = false
 
 [dependencies]
+minifb = "0.27"
+nalgebra-glm = "0.19"
+tobj = "4.0"
